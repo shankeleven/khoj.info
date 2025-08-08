@@ -221,7 +221,7 @@
           React.createElement("code", null, "$ khoj search --query 'function parse' --path ./src")
         ),
         React.createElement("a", {
-          href: "https://docs.khoj.dev",
+          // href: "https://docs.khoj.dev",
           target: "_blank",
           rel: "noopener noreferrer",
           className: "btn btn--primary docs-button",
